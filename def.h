@@ -46,5 +46,5 @@
 #define GAMEOVER	  11
 #define WIN			  12
 
-#define DEADTIME 1000
+#define DEADTIME 100
 #define BOMBTIME 256
